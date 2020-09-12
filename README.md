@@ -1,3 +1,3 @@
 # Demo 
 
-Introductory assignment for software engieering. 
+Introductory assignment for software engineering. 
